@@ -1,6 +1,8 @@
 import javax.swing.JOptionPane;
 public class Practice02 {
 	public static void main(String[] args) {
+		// change 1 done in browser
+		
 		String s = JOptionPane.showInputDialog("Enter Temperature: ");
 		double temp = Double.parseDouble(s);
 		
